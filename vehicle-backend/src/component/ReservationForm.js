@@ -25,7 +25,7 @@ const ReservationForm = () => {
       },
     });
 
-    window.location.href = '/reservations'; // Redirect to reservations page
+    window.location.href = '/reservations'; 
   };
 
   return (
